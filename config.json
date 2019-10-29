@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost:3306/codings",
+    "prod_uri":"mysql://root:@localhost:3306/codings",
+    "fb_url":"",
+    "tw_url":"",
+    "gh_url": "https://github.com/chaitanya2330",
+    "blog_name": "Python Developer",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is Chaitanya and I Create Flask applications",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"chaitanya",
+    "admin_password": "12345",
+    "upload_location":"C:\\Users\\Chaitanya\\PycharmProjects\\Python-Flask-Blog\\static"
+
+
+  }
+
+}
